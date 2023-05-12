@@ -1,0 +1,17 @@
+C:\Users\ASUS\source\repos\ExamenJihedMakthri\Infrastructue\obj\Debug\net6.0\Infrastructue.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\ExamenJihedMakthri\Infrastructue\obj\Debug\net6.0\Infrastructue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\ExamenJihedMakthri\Infrastructue\obj\Debug\net6.0\Infrastructue.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\ExamenJihedMakthri\Infrastructue\obj\Debug\net6.0\Infrastructue.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\ExamenJihedMakthri\Infrastructue\obj\Debug\net6.0\Infrastructue.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ExamenJihedMakthri\Infrastructue\bin\Debug\net6.0\Infrastructue.deps.json
+C:\Users\ASUS\source\repos\ExamenJihedMakthri\Infrastructue\bin\Debug\net6.0\Infrastructue.runtimeconfig.json
+C:\Users\ASUS\source\repos\ExamenJihedMakthri\Infrastructue\bin\Debug\net6.0\Infrastructue.dll
+C:\Users\ASUS\source\repos\ExamenJihedMakthri\Infrastructue\bin\Debug\net6.0\Infrastructue.pdb
+C:\Users\ASUS\source\repos\ExamenJihedMakthri\Infrastructue\bin\Debug\net6.0\ApplicationCore.dll
+C:\Users\ASUS\source\repos\ExamenJihedMakthri\Infrastructue\bin\Debug\net6.0\ApplicationCore.pdb
+C:\Users\ASUS\source\repos\ExamenJihedMakthri\Infrastructue\obj\Debug\net6.0\Infrastructue.csproj.CopyComplete
+C:\Users\ASUS\source\repos\ExamenJihedMakthri\Infrastructue\obj\Debug\net6.0\Infrastructue.dll
+C:\Users\ASUS\source\repos\ExamenJihedMakthri\Infrastructue\obj\Debug\net6.0\refint\Infrastructue.dll
+C:\Users\ASUS\source\repos\ExamenJihedMakthri\Infrastructue\obj\Debug\net6.0\Infrastructue.pdb
+C:\Users\ASUS\source\repos\ExamenJihedMakthri\Infrastructue\obj\Debug\net6.0\Infrastructue.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\ExamenJihedMakthri\Infrastructue\obj\Debug\net6.0\ref\Infrastructue.dll
